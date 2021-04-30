@@ -1,0 +1,16 @@
+img {
+    width: 400px;
+    height: 250px;
+}
+
+figure {
+    border: 3px solid rgb(149, 149, 149);
+    display: block;
+    float: left;
+    margin: 0 10px 10px 0;
+    text-align: center;
+}
+
+figure:hover {
+    border: 3px solid rgb(0, 0, 0);
+}

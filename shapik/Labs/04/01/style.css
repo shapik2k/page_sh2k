@@ -1,0 +1,32 @@
+div {
+    font-size: 250%;
+    padding: 40px 400px;
+    margin: 30px;
+}
+
+.but1 {
+    border-top: 7px dotted green;
+    border-right: 7px inset blue;
+    border-bottom: 7px dashed red;
+    border-left: 7px double;
+}
+
+.but2 {
+    border: 7px none white;
+    border-bottom: 7px solid red;
+}
+
+.but3 {
+    border: 7px none white;
+    border-left: 7px solid blue;
+    background: #9fd8df;
+}
+
+.but4 {
+    border-radius: 26px;
+    box-shadow: 0 5px 20px;
+}
+
+.but4:hover {
+    background: #9fd8df;
+}

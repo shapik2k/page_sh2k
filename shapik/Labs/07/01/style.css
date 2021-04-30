@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #32425c;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    justify-content: center;
+}
+
+a {
+    color: aliceblue;
+    font-size: 25px;
+    margin: 4px;
+}
+
+li {
+    display: flex;
+    align-content: space-between;
+    align-items: center;
+    margin: 3px;
+    margin-right: 30px;
+}
+
+img {
+    height: 52px;
+}
+
+.menu {
+    background-color: #47556d;
+}
+
+.menu:hover {
+    background-color: #333e50;
+}
